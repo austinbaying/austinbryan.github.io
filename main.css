@@ -577,7 +577,7 @@ input[type="submit"]:hover {
     font-size: 4rem;
   }
 
-/*  .timeline ul {
+  .timeline ul {
     margin: 0 0 0 auto;
   }
 
@@ -587,7 +587,7 @@ input[type="submit"]:hover {
 
   .timeline .date::after {
     left: -6rem;
-  } */
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -631,13 +631,13 @@ input[type="submit"]:hover {
     order: 2;
   }
 
-/*  .timeline p {
+  .timeline p {
     font-size: 1.6rem;
   }
 
   .timeline .date::before {
     font-size: 1.4rem
-  } */
+  } 
 
   form {
     width: 100%;
